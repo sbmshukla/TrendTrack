@@ -11,6 +11,6 @@
     <style name="Theme.TrendTrack" parent="Base.Theme.TrendTrack" />
 
     <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
-        <item name="color">@color/primary</item>
+        <item name="android:color">@color/navy_blue</item>
     </style>
 </resources>
