@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TrendTrack</string>
+    <string name="search">Search</string>
+    <string name="favourites">Favourites</string>
+    <string name="headlines">Headlines</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_to_favorite">Add To Favorite</string>
+    <string name="no_internet">No Internet</string>
+    <string name="retry">Retry</string>
+</resources>
