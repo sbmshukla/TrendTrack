@@ -47,10 +47,6 @@ To get started with TrendTrack, follow these steps:
 
 ## Dependencies
 
-TrendTrack relies on the following libraries and dependencies:
-
-## Dependencies
-
   TrendTrack relies on the following libraries and dependencies:
   
   ```kotlin
