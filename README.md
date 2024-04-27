@@ -73,6 +73,7 @@ To get started with TrendTrack, follow these steps:
   
   // Coroutines - For managing asynchronous programming and background tasks.
   implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutineVersion")
+  implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:$coroutineVersion")
   
   // Navigation - For managing navigation within the app.
   implementation("androidx.navigation:navigation-fragment-ktx:$navVersion")
