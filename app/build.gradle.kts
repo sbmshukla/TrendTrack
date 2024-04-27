@@ -54,9 +54,6 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
 
 
-
-
-    
     val roomVersion = "2.6.1"
     val lifecycleVersion = "2.7.0"
     val coroutineVersion = "1.8.1-Beta"
@@ -65,6 +62,7 @@ dependencies {
     val okHttpVersion = "4.12.0"
     val glideVersion = "4.16.0"
     val glideCompilerVersion = "4.16.0"
+
 
     // Room
     implementation("androidx.room:room-runtime:$roomVersion")
@@ -82,7 +80,7 @@ dependencies {
 
     // Coroutine
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutineVersion")
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutineVersion")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:$coroutineVersion")
 
     // Navigation
     implementation("androidx.navigation:navigation-fragment-ktx:$navVersion")
